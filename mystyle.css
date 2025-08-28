@@ -90,17 +90,17 @@ section input {
   margin-bottom: 30px;
 }
  
-section button:hover {
+section input:hover {
   background: #7a00cc;
 }
  
-section footer a {
+section p a {
   margin-right: 15px;
-  font-size: 20px;
+  font-size: 40px;
   color: #333;
 }
  
-section footer a:hover {
+section p a:hover {
   color: #a100ff;
 }
  
