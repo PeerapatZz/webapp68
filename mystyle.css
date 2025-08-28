@@ -1,0 +1,10 @@
+img {
+  width: 200px;
+  border-radius: 100px;
+}
+
+nav {
+  position: absolute;
+  top: 1;
+  right: 0;
+}
